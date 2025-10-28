@@ -8,12 +8,10 @@ METALENSE OPT는 METALENSE 2 를 모니터링하고 관리하는 Windows 기반 
 ```
 ├──docs 
 │  ├──문서 관련 데이터
-├──METALENSE OPT OPT 
+├──METALENSE OPT
 │  ├──METALENSE_OPT_[current version]_Setup.exe
 │  ├──METALENSE_OPT_[current version]_Setup.zip
 │  ├──METALENSE_OPT_[current version].매뉴얼.pdf
-├──OldVersion
-│  ├──METALENSE_OPT_[old version]
 ├──LICENSE.md
 ├──README.md
 ```
