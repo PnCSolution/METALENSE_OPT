@@ -35,7 +35,7 @@ METALENSE OPT는 METALENSE 2 를 모니터링하고 관리하는 Windows 기반 
 
 ※ METALENSE OPT는 Launcher V.2.0.1 이후 버전에서만 작동됩니다.
 
-![Image01.png](docs/Image01.png)
+![Image01.png](./docs/image01.png)
 
 
 ## 매뉴얼
