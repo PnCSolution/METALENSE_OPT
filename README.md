@@ -9,9 +9,10 @@ METALENSE OPT는 METALENSE 2 를 모니터링하고 관리하는 Windows 기반 
 ├──docs 
 │  ├──문서 관련 데이터
 ├──METALENSE OPT
+│  ├──METALENSE_OPT_[current version]_Manual_ENG.pdf
+│  ├──METALENSE_OPT_[current version]_Manual_KR.pdf
 │  ├──METALENSE_OPT_[current version]_Setup.exe
 │  ├──METALENSE_OPT_[current version]_Setup.zip
-│  ├──METALENSE_OPT_[current version].매뉴얼.pdf
 ├──LICENSE.md
 ├──README.md
 ```
@@ -19,10 +20,13 @@ METALENSE OPT는 METALENSE 2 를 모니터링하고 관리하는 Windows 기반 
       - METALENSE OPT 설치 파일입니다.
 
 2. METALENSE_OPT_[current version]_Setup.zip
-      - METALENSE OPT 설치 파일을 압축한 파일입니다. (1번)
+      - METALENSE OPT 설치 파일을 압축한 파일입니다. (1번 파일 압축)
 
-3. METALENSE_OPT_[current version]_매뉴얼.pdf
-      - METALENSE OPT 사용자 매뉴얼입니다.
+3. METALENSE_OPT_[current version]_Manual_ENG.pdf
+      - METALENSE OPT 사용자 매뉴얼(영문버전)입니다.
+
+4. METALENSE_OPT_[current version]_Manual_KR.pdf
+      - METALENSE OPT 사용자 매뉴얼(한글버전)입니다.
 
 
 ## 설치 방법
@@ -37,7 +41,7 @@ METALENSE OPT는 METALENSE 2 를 모니터링하고 관리하는 Windows 기반 
 
 
 ## 매뉴얼
-'METALENSE_OPT_[current version]_매뉴얼.pdf' 파일을 참고하세요.
+'METALENSE_OPT_[current version]_Manual_[Language].pdf' 파일을 참고하세요.
 프로그램의 주요 기능과 사용 방법이 상세히 설명되어 있습니다.
 
 
